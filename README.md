@@ -1,41 +1,36 @@
-Bitcoin SV
+alp-core 
 ===========
 
-What is Bitcoin SV?
+What is ALP (core)?
 -------------------
 
-[Bitcoin SV (Satoshi Vision)](https://bitcoinsv.io/) is the original Bitcoin.  It restores the original Bitcoin 
-protocol, will keep it stable, and allow it to massively scale.  Bitcoin SV will maintain the vision set out by Satoshi 
-Nakamoto’s white paper in 2008.  This Github repository provides open-source software to enable use of Bitcoin SV.
+[ALP](https://ledger.church/alp) is a hard form of Bitcoin-SV.  It is intended to be used as a proof-of-work 
+blockchain database. I will compile and share versions of ALP for Ubuntu initially, and encourage others to 
+do the same for other environments.
+
+Another element of ALP exists in a separate repository which is a bash functional environment which I have developed
+over the years. It is not required to use this product.
+
+ALP will allow you to generate your own genesis block and customize the inner working of your blockchain to a great
+degree, probably in the initial few blocks of operation. It is suitable for public, private, or hybrid operations.
 
 License
 -------
 
-Bitcoin SV is released under the terms of the Open BSV license. See [LICENSE](LICENSE) for more information.
-
-Security
---------
-Security is core to our values, and we value the input of security researchers acting in good faith to help us maintain 
-high standards of security and privacy for our users and the Bitcoin SV blockchain.
-
-To encourage ethical and responsible research into security vulnerabilities, the Bitcoin SV team, with support from 
-Coingeek Mining, has instituted a [Responsible Disclosure Policy](doc/rdp.md).
+Alp-core is released under the terms of the Open BSV license. See [LICENSE](LICENSE) for more information.
 
 Development Process
 -------------------
 
-This Github repository contains the source code of releases.
-
-At this early stage in Bitcoin SV's development, we are not accepting contributions to the project. We expect this to 
-change in the future.
+This Github repository contains the source code of releases. Pull requests are welcomed.
 
 Contacting the Bitcoin SV Team
 ------------------------------
 
-If you want to report a non-confidential issue with Bitcoin SV, please use the 
-[GitHub issue system](https://github.com/bitcoin-sv/bitcoin-sv/issues).
+If you want to report a non-confidential issue with this offering, please use the 
+[GitHub issue system](https://github.com/johnrigler/alp-core/issues).
 
-If you want to report a security vulnerability, please review the [Responsible Disclosure Policy](doc/rdp.md) and send
-e-mail to <security@bitcoinsv.io>.
+If you want to report a security vulnerability (or any other confidential issues), please review the [Responsible Disclosure Policy](doc/rdp.md) and send
+e-mail to <john.rigler@protonmail.com> or contract me on LinkedIn: https://www.linkedin.com/in/jrigler/
 
-For any other questions or issues, please send e-mail to <support@bitcoinsv.io>.
+
