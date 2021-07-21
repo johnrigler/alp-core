@@ -25,7 +25,7 @@ Development Process
 
 This Github repository contains the source code of releases. Pull requests are welcomed.
 
-Contacting the Bitcoin SV Team
+Contacting the ALP Team
 ------------------------------
 
 If you want to report a non-confidential issue with this offering, please use the 
