@@ -12,7 +12,8 @@ Another element of ALP exists in a separate repository which is a bash functiona
 over the years. It is not required to use this product.
 
 ALP will allow you to generate your own genesis block and customize the inner working of your blockchain to a great
-degree, probably in the initial few blocks of operation. It is suitable for public, private, or hybrid operations.
+degree, probably in the initial few blocks of operation. It is suitable for public, private, or hybrid operations. It
+is not intended to be a money system, but will be cross-chained into various existing cryptocurrencies.
 
 License
 -------
